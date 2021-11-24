@@ -1,0 +1,26 @@
+apply plugin: 'application'
+apply plugin: 'idea'
+apply plugin: 'eclipse'
+apply plugin: 'com.esri.arcgisruntime.java'
+
+buildscript {
+    repositories {
+        maven {
+            url = 'https://esri.bintray.com/arcgis'
+        }
+    }
+    dependencies {
+        classpath 'com.esri.arcgisruntime:gradle-arcgis-java-plugin:1.0.0'
+    }
+}
+
+arcgis.version = '100.4.0'
+
+repositories {
+    mavenCentral()
+}
+dependencies {
+    compile group:'org.xerial', name:'sqlite-jdbc', version:'3.8.11.2'
+    testCompile 'org.assertj:assertj-swing-junit:3.8.0'
+    testCompile group:'junit', name: 'junit', version:'4.12'
+}
