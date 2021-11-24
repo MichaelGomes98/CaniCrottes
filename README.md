@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/48489202/143305206-04ef9213-d99b-4e39-8c49-5fff5dac33b0.png">
+  <img src="https://user-images.githubusercontent.com/48489202/143322557-4ebc50df-f691-4d94-a2ff-d6a69d05f2dd.png">
 </p>
 <p align="justify">
 <b>CaniCrottes</b> est une application de bureau qui utilise une API fournie par le département des systèmes d'information du territoire de Genève (SITG). Le but principal de l'application est d'afficher sur une map toutes les caninettes de Genève ainsi que leurs statuts (Disponible ou non). Un espace de connexion est également mis en place afin de gérer le tout.
