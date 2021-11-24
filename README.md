@@ -16,6 +16,11 @@
 ## Captures d'écran
 <p align="center">
 	<img  src="https://user-images.githubusercontent.com/48489202/143321664-5a5dc5fa-9eb0-45a7-acf8-ecb2e2254ce4.PNG">
+</p>
+<p align="center">
 	<img  src="https://user-images.githubusercontent.com/48489202/143321667-bc4a6619-1337-4734-ab90-77c525257ad7.PNG">
+</p>
+<p align="center">
 	<img  src="https://user-images.githubusercontent.com/48489202/143321669-04ef5784-54c1-4ca0-a7b4-66364c6eaffa.PNG">
 </p>
+
